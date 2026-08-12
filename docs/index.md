@@ -1,5 +1,8 @@
 # About Me
 
+Full-Stack Engineer with experience in backend, frontend, and infrastructure development.  
+Mainly working with TypeScript, PHP, Kotlin, and AWS.
+
 | | |
 |---|---|
 | **Name** | hir-247-30 |
@@ -7,30 +10,30 @@
 | **GitHub** | [hir-247-30](https://github.com/hir-247-30) |
 | **Role** | Full-Stack Engineer |
 
-## Tech Stack
+## ◆ Tech Stack
 
 | Category | Technologies |
 |---|---|
 | **Backend** | TypeScript (Node.js), PHP, Kotlin |
-| **Frontend** | Vue.js, Nuxt.js, jQuery, TypeScript |
+| **Frontend** | Vue.js, Nuxt.js, jQuery |
 | **Infrastructure** | Linux, Docker, AWS, IaaS (Terraform) |
 
-## Portfolio
+## ◆ Portfolio
 
 | Name | Repository |
 |---|---|
 | **Chip8** | [chip8.ts](https://github.com/hir-247-30/chip8.ts) |
 | **Splatoon Weapon Shuffle** | [splatoon-weapon-shuffle](https://github.com/hir-247-30/splatoon-weapon-shuffle) |
 
-## Certifications
+## ◆ Certifications
 
 | Certification |
 |---|
-| EIKEN Grade Pre-1 |
-| Applied Information Technology Engineer Examination (AP) |
-| Registered Information Security Specialist (RISS) |
+| 英検準1級 EIKEN Grade Pre-1 |
+| 応用情報技術者 Applied Information Technology Engineer Examination (AP) |
+| 安全確保支援士 Registered Information Security Specialist (RISS) |
 
-## Activities
+## ◆ Activities
 
 | Activity | Details |
 |---|---|
