@@ -22,8 +22,8 @@ Mainly working with TypeScript, PHP, Kotlin, and AWS.
 
 | Name | Repository | Link |
 |---|---|---|
-| **Chip8** | [chip8.ts](https://github.com/hir-247-30/chip8.ts) | [https://hir-247-30.github.io/chip8.ts/](https://hir-247-30.github.io/chip8.ts/) |
-| **Splatoon Weapon Shuffle** | [splatoon-weapon-shuffle](https://github.com/hir-247-30/splatoon-weapon-shuffle) | [https://hir-247-30.github.io/splatoon-weapon-shuffle](https://hir-247-30.github.io/splatoon-weapon-shuffle/) |
+| **Chip8** | [chip8.ts](https://github.com/hir-247-30/chip8.ts) | [Chip8](https://hir-247-30.github.io/chip8.ts/) |
+| **Splatoon Weapon Shuffle** | [splatoon-weapon-shuffle](https://github.com/hir-247-30/splatoon-weapon-shuffle) | [Splatoon Weapon Shuffle](https://hir-247-30.github.io/splatoon-weapon-shuffle/) |
 
 ## ◆ Certifications
 
