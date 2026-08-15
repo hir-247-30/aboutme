@@ -5,7 +5,7 @@ Mainly working with TypeScript, PHP, Kotlin, and AWS.
 
 | | |
 |---|---|
-| **Name** | hir-247-30 |
+| **Name** | Hiroshi Hagiwara |
 | **Company** | [LY Corporation](https://www.lycorp.co.jp/ja/) |
 | **GitHub** | [hir-247-30](https://github.com/hir-247-30) |
 | **Role** | Full-Stack Engineer |
@@ -16,7 +16,7 @@ Mainly working with TypeScript, PHP, Kotlin, and AWS.
 |---|---|
 | **Backend** | TypeScript (Node.js), PHP, Kotlin |
 | **Frontend** | Vue.js, Nuxt.js, jQuery |
-| **Infrastructure** | Linux, Docker, AWS, IaaS (Terraform) |
+| **Infrastructure** | Linux, Docker, AWS, IaS (Terraform) |
 
 ## ◆ Portfolio
 
